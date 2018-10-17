@@ -1,0 +1,15 @@
+body{
+    direction: rtl;
+}
+.media > .pull-left {
+  margin-left: 10px;
+}
+.media > .pull-right {
+  margin-right: 10px;
+}
+.pull-right {
+  float: left!important;
+}
+.pull-left {
+  float: right!important;
+}

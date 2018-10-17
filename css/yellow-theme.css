@@ -1,0 +1,29 @@
+/*the secondary or default color for the site*/
+
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.option-box .gear-check,
+.carousel-indicators .active{
+    background-color: #eadd0d;
+}
+
+
+.navbar > .container .navbar-brand, 
+.footer .copy span,.footer h3,.section h1 span,.section h3 span,
+.testmon .item span{
+    color:#eadd0d;
+}
+
+.option-box .color-option,
+.price-box .item:hover p,
+.testmon .carousel-indicators li.active,
+.testmon .carousel-indicators li:hover{
+    
+    border: 3px solid #eadd0d;
+}
+.dropdown-menu{
+    
+    border-top: 3px solid #eadd0d;
+}
